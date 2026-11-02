@@ -1,8 +1,6 @@
 ### Terry (Tianyi) Cao
 
-Data infrastructure engineer and guitarist. I build the practice tools I wanted
-as a player, and every one of them checks itself against reality: measured or
-verified, not guessed.
+Data infrastructure engineer and guitarist. I build the practice tools I wanted as a player.
 
 #### [woodshed — any tab you have, playing in seconds →](https://woodshed-web.fly.dev)
 
@@ -28,5 +26,3 @@ constellations. Light what you can already play and see what to practise next.
 - [**Reladomo #274**](https://github.com/goldmansachs/reladomo/pull/274) — added Snowflake support to Goldman Sachs' bitemporal Java ORM (merged).
 - [**airflow-100k-partitions**](https://github.com/caoterry/airflow-100k-partitions) — can Apache Airflow 3 orchestrate 100k partitions? Benchmarked, with source reading.
 - [**handover-chain**](https://github.com/caoterry/handover-chain) — durable per-project memory for Claude Code sessions, as plain Markdown.
-
-Measure, don't guess.
