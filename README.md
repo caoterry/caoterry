@@ -1,8 +1,8 @@
 ### Terry (Tianyi) Cao
 
-Data infrastructure engineer, learning guitar from zero and building the tools
-I wanted along the way. Every one of them checks itself against reality:
-measured or verified, not guessed.
+Data infrastructure engineer and guitarist. I build the practice tools I wanted
+as a player, and every one of them checks itself against reality: measured or
+verified, not guessed.
 
 #### [woodshed — any tab you have, playing in seconds →](https://woodshed-web.fly.dev)
 
@@ -16,7 +16,6 @@ down and loop. Free, no ads.
 The guitar as a star map: 124 skills in 8 zones, with guitar heroes as
 constellations. Light what you can already play and see what to practise next.
 
-<a href="https://starstring.fly.dev"><img src="assets/starstring.jpg" width="560" alt="Starstring: a star map of guitar skills"></a>
 
 **More guitar tools**
 
